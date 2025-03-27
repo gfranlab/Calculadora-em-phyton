@@ -1,0 +1,15 @@
+
+Módulo de LINUX
+
+
+Primeira etapa:
+- comando ''nano'' para executar o editor de texto.
+- descrevi todo o código executado em phyton feito pelo google collab.
+
+Segunda etapa:
+- Criei diretorios com o comando mkdir (home/root/modulo1/logica) onde salvei o arquivo em phyton.
+
+Terceira etapa:
+- Defini permissões com o comando chmod, deixando apenas o usuário com permissão rwx e o outro grupo com permissão
+rw
+ 
