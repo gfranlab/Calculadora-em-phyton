@@ -8,4 +8,4 @@
  Após o procedimento será entregue o resultado
 
  IMPORTANTE!
- Todo e qualquer variável que for dividido por zero o sistema entregará um aviso que é implossivel de ser realizado.
+ Todo e qualquer variável que for dividido por zero o sistema entregará um aviso que é implossível de ser realizado.
